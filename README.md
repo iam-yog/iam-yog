@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iam-yog
-- 👀 I’m interested in fornt-end
+- 👀 I’m interested in front-end
 - 🌱 I’m currently learning CS in KNOU
 - 💞️ I’m looking to collaborate on ... NOT NOW!
 - 📫 How to reach me : very.yog.indeed@gmail.com
